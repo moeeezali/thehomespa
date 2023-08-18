@@ -199,6 +199,12 @@
               </p>
             {%- endif -%}
 
+            {%- if card_product.metafields.custom.short_description != blank -%}
+              <div class="product_short__description">
+                {{ card_product.metafields.custom.short_description }}
+              </div>
+            {%- endif -%}
+
             {% render 'price', product: card_product, price_class: '' %}
           </div>
         </div>

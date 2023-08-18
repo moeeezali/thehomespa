@@ -82,11 +82,10 @@
                   {% else %}
                     href="{{ block.settings.button_link }}"
                   {% endif %}
-                  class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}"
+                  class="button button--secondary btn-custom-bigger"
                   {{ block.shopify_attributes }}
                 >
                   {{ block.settings.button_label | escape }}
-                  <img src="https://cdn.shopify.com/s/files/1/0790/4716/4215/files/Arrow_icon_1.png?v=1691423877" class="btn-arrow-icon">
                 </a>
               {%- endif -%}
           {%- endcase -%}
