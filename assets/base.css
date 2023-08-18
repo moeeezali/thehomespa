@@ -2529,7 +2529,11 @@ details[open] .modal-overlay {
   display: block;
 }
 
-details[open] .modal-overlay::after {
+.scrolled-past-header sticky-header.header-wrapper {
+  background-color: #fff;
+}
+
+/* details[open] .modal-overlay::after {
   position: absolute;
   content: '';
   background-color: rgb(var(--color-foreground), 0.5);
@@ -2537,7 +2541,7 @@ details[open] .modal-overlay::after {
   left: 0;
   right: 0;
   height: 100vh;
-}
+} */
 
 .no-js details[open] > .header__icon--search {
   top: 1rem;
@@ -2585,7 +2589,7 @@ details[open] .modal-overlay::after {
   }
 
   .search-modal__content {
-    padding: 0 6rem;
+    padding: 0;
   }
 }
 
@@ -2635,7 +2639,32 @@ details[open] > .header__submenu {
   animation: animateMenuOpen var(--duration-default) ease;
   animation-fill-mode: forwards;
   z-index: 1;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.8);
 }
+
+details[open] > .header__submenu .list-menu__item {
+  background-color: transparent;
+}
+
+details[open] > .header__submenu .list-menu__item:hover,
+details[open] > .header__submenu .list-menu__item.active {
+  background-color: rgba(239,89,158, .7);
+}
+
+details[open] > .header__submenu:after {
+  content: '';
+  position: absolute;
+  top: -5px;
+  right: 10px;
+  height: 5px;
+  width: 15px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  z-index: 1;
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+
 
 @media (prefers-reduced-motion) {
   details[open] > .header__submenu {
@@ -2686,22 +2715,10 @@ details[open] > .header__submenu {
   color: rgba(var(--color-foreground), 0.75);
 }
 
-.header__menu-item:hover {
-  color: rgb(239, 89, 158);
-}
-
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
 }
 
-.header__menu-item:hover span {
-  text-decoration: underline;
-  text-underline-offset: 0.3rem;
-}
-
-details[open] > .header__menu-item {
-  text-decoration: underline;
-}
 
 details[open]:hover > .header__menu-item {
   text-decoration-thickness: 0.2rem;
@@ -2713,13 +2730,7 @@ details[open] > .header__menu-item .icon-caret {
 
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(239, 89, 158);
-  text-decoration: underline;
-  text-underline-offset: 0.3rem;
-}
-
-.header__menu-item:hover .header__active-menu-item {
-  text-decoration-thickness: 0.2rem;
+  color: rgb(255, 255, 255);
 }
 
 .header__submenu {
@@ -2738,7 +2749,7 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__submenu.list-menu {
-  padding: 2.4rem 0;
+  padding: 1rem;
 }
 
 .header__submenu .header__submenu {
@@ -2754,6 +2765,8 @@ details[open] > .header__menu-item .icon-caret {
 .header__submenu .header__menu-item {
   justify-content: space-between;
   padding: 0.8rem 2.4rem;
+  border: 0px;
+  border-radius: var(--popup-corner-radius);
 }
 
 .header__submenu .header__submenu .header__menu-item {

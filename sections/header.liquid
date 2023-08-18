@@ -64,6 +64,7 @@
   .list-menu--inline {
     display: inline-flex;
     flex-wrap: wrap;
+    gap: 1rem;
   }
 
   summary.list-menu__item {
@@ -74,6 +75,12 @@
     display: flex;
     align-items: center;
     line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  
+
+  header summary.list-menu__item {
+    padding-right: 30px;
   }
 
   .list-menu__item--link {
@@ -88,6 +95,20 @@
       padding-bottom: 0.5rem;
       padding-top: 0.5rem;
     }
+
+    header .list-menu__item {
+      background: #fff;
+      border-radius: 50px;
+      padding: 10px 20px;
+      border: .5px solid #000;
+    }
+
+    header .list-menu__item-active,
+    header .list-menu__item:hover{
+    background: #000;
+    color: #fff;
+    border-color: #fff;
+  }
   }
 </style>
 
