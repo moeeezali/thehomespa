@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Your Home  Your Spa<\/strong>",
+            "heading": "<strong>Your Home <\/br>  Your Spa<\/strong>",
             "heading_size": "h0"
           }
         },
