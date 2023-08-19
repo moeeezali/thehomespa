@@ -346,6 +346,12 @@ sticky-header.header-wrapper {
   position: relative;
 }
 
+.multicolumn-list__item:first-child img {
+    right: 0 !important;
+    left: auto !important;
+    transform: translate(0%) !important;
+}
+
 
 
 
