@@ -343,6 +343,8 @@ sticky-header.header-wrapper {
 
 .floating-cont-wrapper {
   max-width: 1600px;
+  width: 100%;
+  position: relative;
 }
 
 .multicolumn-list__item:first-child img {
