@@ -263,6 +263,7 @@ sticky-header.header-wrapper {
   display: flex;
   justify-content: space-between;
   bottom: 0;
+  padding: 0 50px;
 }
 
 @media screen and (max-width: 1600px) {
