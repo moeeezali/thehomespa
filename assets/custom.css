@@ -234,13 +234,30 @@ sticky-header.header-wrapper {
   }
 }
 
-.gift-box-container {
+.abs-custom-position {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+}
+
+.abs-custom-wrapper {
   position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  bottom: 0;
+  margin-bottom: 100px;
+}
+
+.gift-box-container {
+  position: relative;
   width: 65px;
   height: 65px;
   bottom: 0;
   left: 0;
-  margin: 35px 25px;
   z-index: 2;
   transition: all 0.3s ease-in;
 }
@@ -254,13 +271,14 @@ sticky-header.header-wrapper {
   position: relative;
 }
 
+.floating-container-wrpapper {
+  position: relative;
+}
+
 .floating-container {
-  position: fixed;
-  width: 100px;
-  height: 100px;
-  bottom: 0;
+  position: absolute;
   right: 0;
-  margin: 35px 25px;
+  bottom: 0;
   z-index: 2;
 }
 
