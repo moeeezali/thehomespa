@@ -260,6 +260,12 @@ sticky-header.header-wrapper {
   z-index: 2;
 }
 
+@media screen and (max-width: 1600px) {
+  .floating-cont-wrapper {
+    padding: 0 50px;
+  }
+}
+
 .floating-container {
   width: 100px;
   height: 100px;
