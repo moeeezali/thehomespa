@@ -253,12 +253,16 @@ sticky-header.header-wrapper {
 .floating-cont-wrapper {
   max-width: 1600px;
   width: 100%;
+  position: relative;
+  display: flex;
+  margin: 0 auto;
+}
+
+.floating-wrapper--inner {
   position: fixed;
   display: flex;
   justify-content: space-between;
   bottom: 0;
-  z-index: 2;
-  margin: 0 auto 3rem;
 }
 
 @media screen and (max-width: 1600px) {
