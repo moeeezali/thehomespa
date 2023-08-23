@@ -260,7 +260,7 @@ sticky-header.header-wrapper {
   position: fixed;
   display: flex;
   justify-content: center;
-  bottom: 0
+  bottom: 0;
 }
 
 .floating-container {
