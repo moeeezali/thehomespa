@@ -153,7 +153,9 @@ sticky-header.header-wrapper {
   background-color: rgba(221, 221, 221, .2);
 }
 
-.rich-text__text {
+.rich-text__text,
+.rich-text__text h2,
+.rich-text__text h2 strong {
   color: #000;
 }
 
@@ -249,7 +251,7 @@ sticky-header.header-wrapper {
   justify-content: space-between;
   align-items: end;
   bottom: 0;
-  margin-bottom: 100px;
+  margin-bottom: 60px;
 }
 
 .gift-box-container {
@@ -364,6 +366,7 @@ sticky-header.header-wrapper {
 
 .banner__heading.inline-richtext.h0 {
   font-size: 80px;
+  line-height: 80px;
 }
 
 .my-col-setup {
