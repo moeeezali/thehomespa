@@ -235,7 +235,7 @@ sticky-header.header-wrapper {
 }
 
 .gift-box-container {
-  position: fixed;
+  position: relative;
   width: 65px;
   height: 65px;
   bottom: 0;
@@ -260,6 +260,7 @@ sticky-header.header-wrapper {
   position: fixed;
   display: flex;
   justify-content: center;
+  bottom: 0
 }
 
 .floating-container {
