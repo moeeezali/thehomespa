@@ -403,3 +403,8 @@ sticky-header.header-wrapper {
 
 
 
+
+
+body.scrolled-past-header sticky-header.header-wrapper {
+  background-color: #fff !important;
+}
