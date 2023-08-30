@@ -390,7 +390,13 @@ sticky-header.header-wrapper {
 
 @media screen and (max-width: 768px) {
   .banner__heading.inline-richtext.h0 {
-    font-size: 40px;
+    font-size: 35px;
+    line-height: 35px;
+  }
+
+  .banner__box {
+    padding-top: 14rem !important;
+    padding-bottom: 14rem !important;
   }
 }
 
