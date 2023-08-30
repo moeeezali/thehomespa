@@ -399,7 +399,8 @@ sticky-header.header-wrapper {
     padding-bottom: 14rem !important;
   }
 
-  .rich-text__heading {
+  .rich-text__heading,
+  .image-with-text__heading {
     font-size: 35px !important;
   }
 }
