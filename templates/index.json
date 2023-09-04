@@ -85,6 +85,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "<strong>Shop Our Best Sellers<\/strong>",
         "heading_size": "h1",
@@ -262,7 +263,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/blogs\/news"
           }
         },
         "template--20678168084791__90576e3c-d61b-4f35-a3bd-25afbe86e184-column-2": {
@@ -313,7 +314,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
