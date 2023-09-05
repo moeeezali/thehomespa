@@ -117,6 +117,15 @@
                         class: 'multicolumn-card__image'
                     }}
                   </div>
+                  <a
+                    class="link"
+                    {% if block.settings.link == blank %}
+                      role="link" aria-disabled="true"
+                    {% else %}
+                      href="{{ block.settings.link }}"
+                    {% endif %}
+                  >
+                  </a>
                 </div>
               {%- endif -%}
               <div class="multicolumn-card__info">
