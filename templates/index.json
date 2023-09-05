@@ -85,14 +85,13 @@
     },
     "featured_collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "<strong>Shop Our Best Sellers<\/strong>",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "body",
+        "collection": "frontpage",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -273,7 +272,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/about-us"
+            "link": ""
           }
         },
         "template--20678168084791__90576e3c-d61b-4f35-a3bd-25afbe86e184-column-3": {
