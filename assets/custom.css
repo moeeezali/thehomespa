@@ -416,3 +416,9 @@ body.scrolled-past-header sticky-header.header-wrapper {
 #cart-icon-bubble {
   display: none !important;
 }
+
+@media only screen and (max-width: 767px) {
+  .floating-container.active .floating-button {
+    display: none !important;
+  }
+}
