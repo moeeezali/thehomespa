@@ -330,6 +330,8 @@ sticky-header.header-wrapper {
   cursor: pointer;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+
+  display: none !important;
 }
 .floating-container .float-element {
   position: relative;
