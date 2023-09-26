@@ -418,7 +418,7 @@ body.scrolled-past-header sticky-header.header-wrapper {
 }
 
 @media only screen and (max-width: 767px) {
-  .floating-container.active .floating-button {
+  .floating-container.active {
     display: none !important;
   }
 }
