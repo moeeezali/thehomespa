@@ -285,7 +285,7 @@ sticky-header.header-wrapper {
 }
 
 .floating-container.active {
-  height: 220px;
+  height: 100px;
 }
 
 .floating-container.active .active-hide,
