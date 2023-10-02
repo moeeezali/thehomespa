@@ -176,6 +176,7 @@
             x = setInterval(function() {    
       
               const now = new Date().getTime(),
+                console.log(countDown);
                     distance = countDown - now;
       
               document.getElementById("days").innerText = Math.floor(distance / (day)),
