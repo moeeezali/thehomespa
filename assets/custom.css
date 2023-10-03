@@ -422,3 +422,7 @@ body.scrolled-past-header sticky-header.header-wrapper {
     display: none !important;
   }
 }
+
+.index .banner__heading {
+  color: #fff !important;
+}
