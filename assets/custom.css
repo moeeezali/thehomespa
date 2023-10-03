@@ -435,4 +435,9 @@ body.scrolled-past-header sticky-header.header-wrapper {
   summary .header__active-menu-item {
     color: #000;
 }
+
+  summary:hover .header__active-menu-item,
+  summary .header__active-menu-item:hover {
+    color: #fff;
+}
 }
