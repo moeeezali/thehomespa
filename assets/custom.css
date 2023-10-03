@@ -431,4 +431,8 @@ body.scrolled-past-header sticky-header.header-wrapper {
   .header__heading-logo {
     width: 314px;
   }
+
+  summary .header__active-menu-item {
+    color: #000;
+}
 }
