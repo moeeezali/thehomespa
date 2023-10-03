@@ -426,3 +426,9 @@ body.scrolled-past-header sticky-header.header-wrapper {
 .index .banner__heading {
   color: #fff !important;
 }
+
+@media only screen and (min-width: 768px) {
+  .header__heading-logo {
+    width: 314px;
+  }
+}
