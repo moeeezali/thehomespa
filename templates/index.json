@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Your Home   Your Spa",
+            "heading": "Your Home, Your Spa",
             "heading_size": "h0"
           }
         },
@@ -28,8 +28,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/The_Home_Spa_banner.jpg",
-        "image_2": "shopify:\/\/shop_images\/Screenshot_2023-08-03_at_4.50.47_AM.png",
-        "image_overlay_opacity": 0,
+        "image_2": "shopify:\/\/shop_images\/Home_spa_Mobile_banner_c.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
