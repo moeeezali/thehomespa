@@ -75,6 +75,7 @@
         "template--20678168084791__35dc36d8-b7bf-44b6-9fab-c9d6fbe61310-text-1",
         "template--20678168084791__35dc36d8-b7bf-44b6-9fab-c9d6fbe61310-button-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
