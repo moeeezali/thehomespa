@@ -55,6 +55,7 @@
   
   .header__search .search-modal.modal__content predictive-search input:focus {
     box-shadow: none !important;
+    border: .5px solid;
   }
   
   .header__search .search-modal.modal__content predictive-search .field:before,
