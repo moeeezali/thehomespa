@@ -54,7 +54,6 @@
   }
   
   .header__search .search-modal.modal__content predictive-search input:focus {
-    border: 0 !important;
     box-shadow: none !important;
   }
   
