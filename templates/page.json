@@ -2,9 +2,57 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "ea17bc99-9131-475d-8969-1f0c37703396": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20755937558839__ea17bc99-9131-475d-8969-1f0c37703396-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Location",
+            "heading_size": "h1"
+          }
+        },
+        "template--20755937558839__ea17bc99-9131-475d-8969-1f0c37703396-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At The Home Spa, we take pride in bringing the ultimate relaxation experience to select cities in the UAE. With our dedicated team of professionals, we are pleased to serve clients in specific areas, including Dubai, Abu Dhabi, Al Ain, and Sharjah. <br\/><br\/>No matter which of these key locations you're in, The Home Spa is just a call away. Book your appointment today and let us transform your home into a sanctuary of serenity and wellness.<br\/><br\/>Indulge in relaxation, pampering, and self-care, and experience the difference of The Home Spa, serving you in Dubai, Abu Dhabi, Al Ain, and Sharjah.\"<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--20755937558839__ea17bc99-9131-475d-8969-1f0c37703396-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20755937558839__ea17bc99-9131-475d-8969-1f0c37703396-heading-1",
+        "template--20755937558839__ea17bc99-9131-475d-8969-1f0c37703396-text-1",
+        "template--20755937558839__ea17bc99-9131-475d-8969-1f0c37703396-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/THE_HOME_SPA_Locations_-03.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "bef256e3-a17f-4f42-ba72-d9bb27d55b0c": {
@@ -50,10 +98,106 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "6f4d5744-78ef-4c84-ac25-a986f85f11ba": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20755937558839__6f4d5744-78ef-4c84-ac25-a986f85f11ba-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--20755937558839__6f4d5744-78ef-4c84-ac25-a986f85f11ba-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--20755937558839__6f4d5744-78ef-4c84-ac25-a986f85f11ba-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20755937558839__6f4d5744-78ef-4c84-ac25-a986f85f11ba-heading-1",
+        "template--20755937558839__6f4d5744-78ef-4c84-ac25-a986f85f11ba-text-1",
+        "template--20755937558839__6f4d5744-78ef-4c84-ac25-a986f85f11ba-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/THE_HOME_SPA_PROFILE_-03.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fe06802d-909a-4cfb-9ca3-042797ca39f1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20755937558839__fe06802d-909a-4cfb-9ca3-042797ca39f1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Location",
+            "heading_size": "h1"
+          }
+        },
+        "template--20755937558839__fe06802d-909a-4cfb-9ca3-042797ca39f1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At The Home Spa, we take pride in bringing the ultimate relaxation experience to select cities in the UAE. With our dedicated team of professionals, we are pleased to serve clients in specific areas, including Dubai, Abu Dhabi, Al Ain, and Sharjah. <br\/><br\/>No matter which of these key locations you're in, The Home Spa is just a call away. Book your appointment today and let us transform your home into a sanctuary of serenity and wellness.<br\/><br\/>Indulge in relaxation, pampering, and self-care, and experience the difference of The Home Spa, serving you in Dubai, Abu Dhabi, Al Ain, and Sharjah.<\/p>"
+          }
+        },
+        "template--20755937558839__fe06802d-909a-4cfb-9ca3-042797ca39f1-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20755937558839__fe06802d-909a-4cfb-9ca3-042797ca39f1-heading-1",
+        "template--20755937558839__fe06802d-909a-4cfb-9ca3-042797ca39f1-text-1",
+        "template--20755937558839__fe06802d-909a-4cfb-9ca3-042797ca39f1-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "bef256e3-a17f-4f42-ba72-d9bb27d55b0c"
+    "ea17bc99-9131-475d-8969-1f0c37703396",
+    "bef256e3-a17f-4f42-ba72-d9bb27d55b0c",
+    "6f4d5744-78ef-4c84-ac25-a986f85f11ba",
+    "fe06802d-909a-4cfb-9ca3-042797ca39f1"
   ]
 }
