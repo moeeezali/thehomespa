@@ -245,11 +245,28 @@
             "heading": "",
             "feeds_type": "FEEDS"
           }
+        },
+        "f50e9c25-6d39-4b26-b433-3fde434dbd0f": {
+          "type": "shopify:\/\/apps\/revit-google-reviews\/blocks\/main\/b25781f7-eb7e-4149-aced-1fc05e163d0d",
+          "settings": {
+            "free_text": "Let our customers speak for us",
+            "revit_theme": "desert",
+            "use_custom": true,
+            "auto_play": false,
+            "background_color": "#1d1d1e",
+            "text_color": "#ffffff",
+            "stars_start_color": "#FFC700",
+            "stars_end_color": "#ffce21",
+            "heading_color": "#050505",
+            "scroll_arrows_color": "#121212",
+            "font": "poppins_n4"
+          }
         }
       },
       "block_order": [
         "e6247c56-2897-46a3-922f-e8015b2f10f1",
-        "6ef95f5d-30b0-4322-9714-bd068a1ed31c"
+        "6ef95f5d-30b0-4322-9714-bd068a1ed31c",
+        "f50e9c25-6d39-4b26-b433-3fde434dbd0f"
       ],
       "settings": {
         "include_margins": true
@@ -358,6 +375,7 @@
         "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-2",
         "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Reviews",
         "heading_size": "h2",
