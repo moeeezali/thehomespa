@@ -30,7 +30,7 @@
         "image": "shopify:\/\/shop_images\/The_Home_Spa_banner.jpg",
         "image_2": "shopify:\/\/shop_images\/Home_spa_Mobile_banner_c.jpg",
         "image_overlay_opacity": 30,
-        "image_height": "adapt",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -146,7 +146,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-08-03_at_4.50.47_AM.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -321,6 +321,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f0fd7448-9924-45c3-907b-91fe41e3ac62": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Farah Deif",
+            "text": "<p>Best salon service ever!! So clean and professional. They have a wide range of colours for nails and did amazing work to my nails! Totally recommend for pampering yourself with special treatment! ❤️<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Latifa Mohammad",
+            "text": "<p>Amazing service with industry’s best team. Highly recommend mary for massage, shes the best! Their mani pedi is always on point, the girls are very professional and clearly highly qualified to do their job at great standards.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Hind Mansoori",
+            "text": "<p>The best service is Home Service.. Their work is on nails and there is no mistake and the treatment is beautiful in all aspects. They are truly creative👍<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-1",
+        "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-2",
+        "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-3"
+      ],
+      "settings": {
+        "title": "Reviews",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Write a review",
+        "button_link": "https:\/\/g.page\/r\/CQQiCF176TkDEB0\/review",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -331,6 +384,7 @@
     "69d24806-40d1-42ad-9a29-d475a44cafa5",
     "7693ee02-2ed8-4d1f-bb9a-0f41dc0b4d0e",
     "16909083950fc8670b",
-    "90576e3c-d61b-4f35-a3bd-25afbe86e184"
+    "90576e3c-d61b-4f35-a3bd-25afbe86e184",
+    "f0fd7448-9924-45c3-907b-91fe41e3ac62"
   ]
 }
