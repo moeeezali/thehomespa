@@ -361,7 +361,7 @@
       "settings": {
         "title": "Reviews",
         "heading_size": "h2",
-        "image_width": "half",
+        "image_width": "third",
         "image_ratio": "circle",
         "columns_desktop": 3,
         "column_alignment": "center",
@@ -370,7 +370,7 @@
         "button_link": "https:\/\/g.page\/r\/CQQiCF176TkDEB0\/review",
         "color_scheme": "accent-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
