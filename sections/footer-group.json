@@ -41,7 +41,6 @@
         "9f392040-2874-4a3b-b579-ab8017638f7b",
         "93a7e1b7-80b4-46aa-be8f-7766ce920a41"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "newsletter_enable": true,
@@ -52,9 +51,9 @@
         "enable_language_selector": false,
         "payment_enable": false,
         "show_policy": false,
-        "margin_top": 36,
-        "padding_top": 72,
-        "padding_bottom": 72
+        "margin_top": 16,
+        "padding_top": 28,
+        "padding_bottom": 0
       }
     }
   },
