@@ -248,9 +248,10 @@
         },
         "f50e9c25-6d39-4b26-b433-3fde434dbd0f": {
           "type": "shopify:\/\/apps\/revit-google-reviews\/blocks\/main\/b25781f7-eb7e-4149-aced-1fc05e163d0d",
+          "disabled": true,
           "settings": {
             "free_text": "Let our customers speak for us",
-            "revit_theme": "desert",
+            "revit_theme": "old_school",
             "use_custom": true,
             "auto_play": false,
             "background_color": "#1d1d1e",
@@ -375,9 +376,8 @@
         "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-2",
         "template--20755938148663__f0fd7448-9924-45c3-907b-91fe41e3ac62-column-3"
       ],
-      "disabled": true,
       "settings": {
-        "title": "Reviews",
+        "title": "Let our customers speak for us",
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "circle",
