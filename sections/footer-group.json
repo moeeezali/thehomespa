@@ -41,6 +41,7 @@
         "9f392040-2874-4a3b-b579-ab8017638f7b",
         "93a7e1b7-80b4-46aa-be8f-7766ce920a41"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "newsletter_enable": true,
