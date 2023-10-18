@@ -27,9 +27,9 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/the_Home_Spa_Web_Banner_Black_with_staff.jpg",
+        "image": "shopify:\/\/shop_images\/the_Home_Spa_Web_Banner_new_Updated_with_staff.jpg",
         "image_2": "shopify:\/\/shop_images\/Home_spa_Mobile_banner_c.jpg",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
