@@ -203,8 +203,8 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "#ef599e",
-          "button": "#383838",
+          "text": "#050505",
+          "button": "#4285f4",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
