@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Your Home, Your Spa",
+            "heading": "Your Home,                                               Your Spa",
             "heading_size": "h0"
           }
         },
@@ -15,7 +15,7 @@
           "settings": {
             "button_label_1": "Schedule Your Session Now",
             "button_link_1": "https:\/\/www.fresha.com\/book-now\/the-home-spa-sxsz4qdb\/all-offer?pId=783694",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "tel:0562211224",
             "button_style_secondary_2": false
@@ -27,10 +27,10 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/The_Home_Spa_banner.jpg",
+        "image": "shopify:\/\/shop_images\/the_Home_Spa_Web_Banner_Black_with_staff.jpg",
         "image_2": "shopify:\/\/shop_images\/Home_spa_Mobile_banner_c.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "medium",
+        "image_overlay_opacity": 20,
+        "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
