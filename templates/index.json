@@ -27,7 +27,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/the_Home_Spa_Web_Banner_new_Updated_with_staff.jpg",
+        "image": "shopify:\/\/shop_images\/the_Home_Spa_Web_Banner_new_Updated_with_c49091f9-9944-4968-ac7e-4309de612716.jpg",
         "image_2": "shopify:\/\/shop_images\/Home_spa_Mobile_banner_c.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -256,7 +256,7 @@
             "auto_play": false,
             "background_color": "#1d1d1e",
             "text_color": "#ffffff",
-            "stars_start_color": "#FFC700",
+            "stars_start_color": "#ffc700",
             "stars_end_color": "#ffce21",
             "heading_color": "#050505",
             "scroll_arrows_color": "#121212",
