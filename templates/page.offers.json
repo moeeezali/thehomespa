@@ -42,12 +42,24 @@
             "button_label": "Book Now",
             "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
           }
+        },
+        "99b4ed7a-8b70-405f-99c2-6fdf27b3b894": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/THS_OFFER-13.png",
+            "caption": "PACJAGE 04",
+            "heading": "Blow Dry Any Length",
+            "text": "<p>Finish your spa day with a fabulous blow dry and get Hand Polish change for free<\/p>",
+            "button_label": "Book Now!",
+            "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
+          }
         }
       },
       "block_order": [
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-1",
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-2",
-        "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-3"
+        "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-3",
+        "99b4ed7a-8b70-405f-99c2-6fdf27b3b894"
       ],
       "settings": {
         "image_height": "adapt",
