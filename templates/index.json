@@ -41,6 +41,48 @@
         "show_text_below": false
       }
     },
+    "8effb2e4-fdaa-4ab5-8330-11384fce2246": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "November Offer",
+            "heading_size": "h1"
+          }
+        },
+        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Embrace the essence of relaxation this November with our exclusive spa offers. Our expert therapists will come to your doorstep to ensure you enjoy the ultimate spa experience from the comfort of your home.<\/p>"
+          }
+        },
+        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Know More About November Offers",
+            "button_link": "shopify:\/\/pages\/offers",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-heading-1",
+        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-text-1",
+        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-c37124f1-557f-43ed-ae1b-7e9afb5b5d97",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "35dc36d8-b7bf-44b6-9fab-c9d6fbe61310": {
       "type": "rich-text",
       "blocks": {
@@ -396,6 +438,7 @@
   },
   "order": [
     "image_banner",
+    "8effb2e4-fdaa-4ab5-8330-11384fce2246",
     "35dc36d8-b7bf-44b6-9fab-c9d6fbe61310",
     "featured_collection",
     "4ae268ea-9995-455a-8c4a-364204c05d57",
