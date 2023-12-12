@@ -13,43 +13,43 @@
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/THS_OFFER-10_7c9e3b53-d867-41af-bf0f-5c69042c05f5.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-12_at_5.39.40_PM.png",
             "caption": "Package 01",
-            "heading": "Full set Eyelash Extension",
-            "text": "<h3>Get a complimentary 30-minute <strong>free hand and feet massage for ultimate relaxation.<\/strong><\/h3>",
+            "heading": "",
+            "text": "<h3>BOOK MANI PEDI<br\/><br\/><strong>GET FREE<br\/><br\/><\/strong>15 Mins FOOT MASSAGE<\/h3>",
             "button_label": "Book Now",
-            "button_link": "https:\/\/api.whatsapp.com\/send?phone=562211224&text=I'd%20like%20to%20book%20package01"
+            "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
           }
         },
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/THS_OFFER-11_d97cd3d8-a8ce-4630-959c-0fee07f1cba1.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-12_at_5.44.02_PM.png",
             "caption": "PACKAGE 02",
-            "heading": "Gelish manicure +Gelish Pedicure",
-            "text": "<h3>Pamper yourself with beautiful nails and receive a <strong>free eyebrows and upper lip threading session<\/strong><\/h3>",
+            "heading": "",
+            "text": "<h3>BOOK HAIR TREATMENT<br\/><br\/><strong>GET FREE<br\/><br\/><\/strong>20 Mins HEAD MASSAGE<\/h3>",
             "button_label": "Book Now",
-            "button_link": "https:\/\/api.whatsapp.com\/send?phone=562211224&text=I'd%20like%20to%20book%20package02"
+            "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
           }
         },
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/THS_OFFER-12_fea1c200-beb3-4e42-8d36-2c168d2597bf.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-12_at_5.48.32_PM.png",
             "caption": "PACKAGE 03",
-            "heading": "Full Body Massage",
-            "text": "<h3>full body massage and receive a <strong>free complimentary hair oil treatment<\/strong><\/h3>",
+            "heading": "",
+            "text": "<h3>BOOK EYE LASHES<br\/><br\/><strong>GET FREE<br\/><br\/><\/strong>EYEBROW+UPPER LIP<br\/>THREADING<\/h3>",
             "button_label": "Book Now",
-            "button_link": "https:\/\/api.whatsapp.com\/send?phone=562211224&text=I'd%20like%20to%20book%20package03"
+            "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
           }
         },
         "99b4ed7a-8b70-405f-99c2-6fdf27b3b894": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/THS_OFFER-13_50dac78d-263a-478b-a864-bbd8337c3a73.png",
+            "image": "shopify:\/\/shop_images\/THS_OFFER-12_fea1c200-beb3-4e42-8d36-2c168d2597bf.png",
             "caption": "PACJAGE 04",
-            "heading": "Blow Dry Any Length",
-            "text": "<h3>Finish your spa day with a fabulous blow dry and get <strong>Hand Polish change for free<\/strong><\/h3>",
+            "heading": "",
+            "text": "<h2>FULL BODY MASSAGE<br\/><strong><br\/>10% OFF<\/strong><\/h2>",
             "button_label": "Book Now!",
             "button_link": "https:\/\/api.whatsapp.com\/send?phone=562211224&text=I'd%20like%20to%20book%20#package04"
           }
@@ -62,16 +62,16 @@
         "99b4ed7a-8b70-405f-99c2-6fdf27b3b894"
       ],
       "settings": {
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "primary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "align-left",
+        "image_layout": "alternate-left",
         "section_color_scheme": "background-1",
-        "row_color_scheme": "scheme-c37124f1-557f-43ed-ae1b-7e9afb5b5d97",
+        "row_color_scheme": "scheme-3f3de82e-170b-44f3-821c-138fd8e34389",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
