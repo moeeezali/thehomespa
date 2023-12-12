@@ -46,16 +46,15 @@
       "blocks": {
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-heading-1": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "November Offer",
+            "heading": "<strong>Winter Wonder!<\/strong>",
             "heading_size": "h1"
           }
         },
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Pamper Yourself This November with <br\/>The Home Spa's Exclusive Offers!<\/h2>"
+            "text": "<h2>The Home Spa's December Serenity<br\/><\/h2>"
           }
         },
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-button-1": {
@@ -68,17 +67,26 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "fbcd9d33-f775-4e9e-b371-9dcd1ea7774d": {
+          "type": "caption",
+          "settings": {
+            "caption": "DECEMBER 11-25",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-heading-1",
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-text-1",
-        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-button-1"
+        "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-button-1",
+        "fbcd9d33-f775-4e9e-b371-9dcd1ea7774d"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-c37124f1-557f-43ed-ae1b-7e9afb5b5d97",
+        "color_scheme": "scheme-3f3de82e-170b-44f3-821c-138fd8e34389",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -270,6 +278,7 @@
           "disabled": true,
           "settings": {
             "free_text": "Let our customers speak for us",
+            "free_text_position": "start",
             "revit_theme": "dark",
             "use_custom": false,
             "auto_play": false,
@@ -294,6 +303,7 @@
           "disabled": true,
           "settings": {
             "free_text": "Let our customers speak for us",
+            "free_text_position": "start",
             "revit_theme": "old_school",
             "use_custom": true,
             "auto_play": false,
