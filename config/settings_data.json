@@ -127,7 +127,6 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "logo_hight": 10,
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
