@@ -2352,7 +2352,7 @@ product-info .loading-overlay:not(.hidden) ~ *,
 
 .header__heading-logo {
   height: auto;
-  max-width: 100%;
+  max-width: 75%;
 }
 
 .header__heading-logo-wrapper {
