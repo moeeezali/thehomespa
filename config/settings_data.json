@@ -11,7 +11,6 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/Asset_1.svg",
     "logo_width": 50,
-    "logo_hight": 10,
     "favicon": "shopify:\/\/shop_images\/THE_HOME_SPA-Emblem-03.png",
     "type_header_font": "poppins_n4",
     "heading_scale": 150,
@@ -128,6 +127,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "logo_hight": 10,
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
