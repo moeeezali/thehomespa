@@ -14,10 +14,9 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Your Home, Your Spa",
-            "heading_size": "h0"
+            "heading": "<em>feel your best<\/em>",
+            "heading_size": "h2"
           }
         },
         "button": {
@@ -42,9 +41,9 @@
         "image_2": "shopify:\/\/shop_images\/Home_spa_Mobile_banner_d.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
@@ -218,12 +217,13 @@
         "color_scheme": "scheme-3dab660f-5e1c-413f-8d02-8238a0d87aed",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 28,
+        "padding_top": 48,
         "padding_bottom": 28
       }
     },
     "69d24806-40d1-42ad-9a29-d475a44cafa5": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h0",
