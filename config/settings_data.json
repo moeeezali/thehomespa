@@ -1,8 +1,17 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/Asset_1.png",
     "logo_width": 300,
-    "favicon": "shopify:\/\/shop_images\/Fvicon_new-04.png",
+    "favicon": "shopify:\/\/shop_images\/THE_HOME_SPA-Emblem-03.png",
     "type_header_font": "poppins_n4",
     "heading_scale": 125,
     "type_body_font": "poppins_n4",
