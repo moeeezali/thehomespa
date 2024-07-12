@@ -3350,3 +3350,6 @@ details-disclosure > details {
     display: none !important;
   }
 }
+.header__menu-item:hover span {
+    color: #f22e2e !important;
+}
