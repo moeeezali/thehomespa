@@ -3350,3 +3350,6 @@ details-disclosure > details {
     display: none !important;
   }
 }
+.list-menu--disclosure {
+    background: #C1865D !important;
+}
