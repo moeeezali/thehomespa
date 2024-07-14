@@ -190,7 +190,7 @@
           "type": "heading",
           "settings": {
             "heading": "WHY CHOOSE THE HOME SPA?",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--20936574402871__4ae268ea-9995-455a-8c4a-364204c05d57-text-1": {
@@ -216,13 +216,13 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Firefly_Inpaint.jpg",
         "height": "small",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "scheme-3dab660f-5e1c-413f-8d02-8238a0d87aed",
-        "image_behavior": "none",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "left",
         "padding_top": 48,
         "padding_bottom": 28
