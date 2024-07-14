@@ -15,8 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<em>feel your best<\/em>",
-            "heading_size": "h1"
+            "heading": "feel your best",
+            "heading_size": "h2"
           }
         },
         "button": {
