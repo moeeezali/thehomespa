@@ -14,10 +14,9 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "<em>feel your best<\/em>",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "button": {
