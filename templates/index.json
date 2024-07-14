@@ -29,11 +29,19 @@
             "button_link_2": "tel:0562211224",
             "button_style_secondary_2": false
           }
+        },
+        "text_4WAt7E": {
+          "type": "text",
+          "settings": {
+            "text": "At The Home Spa, we understand that life can be hectic, leaving little time for self-care. That's why we bring the salon experience directly to you, offering a range of luxurious beauty services in the comfort of your own home.",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
         "heading",
-        "button"
+        "button",
+        "text_4WAt7E"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_35f9c160-c6e2-4c58-9136-7bf48f230470.png",
