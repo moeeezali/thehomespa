@@ -2766,7 +2766,7 @@ details[open] > .header__menu-item .icon-caret {
   justify-content: space-between;
   padding: 0.8rem 2.4rem;
   border: 0px;
-  border-radius: var(--popup-radius);
+  border-radius: var(--popup-corner-radius);
 }
 
 .header__submenu .header__submenu .header__menu-item {
