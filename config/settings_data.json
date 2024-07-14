@@ -278,11 +278,22 @@
         "settings": {
           "background": "#dcc1b4",
           "background_gradient": "",
-          "text": "#221f20",
+          "text": "#f3f3f3",
           "button": "#c1865d",
           "button_label": "#ffffff",
           "secondary_button_label": "#ffffff",
           "shadow": "#ffffff"
+        }
+      },
+      "scheme-f00fb040-1ab8-4b35-bc5f-99444a1127e5": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#383838",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
         }
       }
     }
