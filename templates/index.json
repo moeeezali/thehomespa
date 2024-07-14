@@ -46,7 +46,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_35f9c160-c6e2-4c58-9136-7bf48f230470.png",
         "image_2": "shopify:\/\/shop_images\/Home_spa_Mobile_banner_d.jpg",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
