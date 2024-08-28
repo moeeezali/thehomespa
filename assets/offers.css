@@ -61,6 +61,10 @@ h3.offers__item-title {
     font-weight: bold;
 }
 
+p.offers__item-text {
+    line-break: anywhere;
+}
+
 @media screen and (max-width: 950px) {
     .offers__grid {
         grid-template-columns: repeat(1, 1fr);
