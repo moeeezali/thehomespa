@@ -507,9 +507,9 @@
         "offer_cQKBWq",
         "offer_3gmQQY"
       ],
-      "disabled": true,
       "settings": {
-        "background_color": "",
+        "background_color": "#ffffff",
+        "gradient": "61deg, rgba(193, 134, 93, 1) 1%, rgba(220, 193, 180, 1) 44%, rgba(207, 215, 222, 1) 77%",
         "text_color": ""
       }
     }
