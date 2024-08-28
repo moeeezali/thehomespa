@@ -1,0 +1,108 @@
+{{ 'offers.css' | asset_url | stylesheet_tag }}
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+
+
+<div class="isolate gradient">
+  <div class="offers section-{{ section.id }}-padding{% if section.settings.full_width %} collection--full-width{% endif %}">
+
+    <div class="container">
+      <div class="offers__grid">
+        {% for block in section.blocks %}
+          <div class="offers__item">
+            <div class="offers__item-inner">
+              <div class="offers__item-image">
+                <img src="{{ block.settings.image | img_url: 'master' }}" alt="{{ block.settings.image.alt | escape }}">
+              </div>
+              <div class="offers__item-content">
+                <h3 class="offers__item-discount">{{ block.settings.discount }}</h3>
+                <h3 class="offers__item-title">{{ block.settings.title }}</h3>
+                <p class="offers__item-text">{{ block.settings.content }}</p>
+                <a href="{{ block.settings.link }}" class="btn btn--secondary">{{ block.settings.button }}</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Offers",
+  "tag": "section",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "settings": [
+    {
+      "type": "color",
+      "label": "Background Color",
+      "id": "background_color" 
+    },
+    {
+      "type": "color",
+      "label": "Text Color",
+      "id": "text_color" 
+    }
+  ],
+  "blocks": [
+    {
+      "type": "offer",
+      "name": "Offer",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+        },
+        {
+          "type": "textarea",
+          "id": "content",
+          "label": "Content"
+        },
+        {
+          "type": "text",
+          "id": "discount",
+          "label": "Discount"
+        },
+        {
+          "type": "text",
+          "id": "button",
+          "label": "Button Label"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Button Link"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Offers"
+    }
+  ]
+}
+{% endschema %}
