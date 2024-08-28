@@ -489,11 +489,23 @@
             "button": "Claim Offer",
             "link": ""
           }
+        },
+        "offer_3gmQQY": {
+          "type": "offer",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fashion-portrait.jpg",
+            "title": "Classic Mani-Pedi + Gold Facial",
+            "content": "",
+            "discount": "50% OFF",
+            "button": "Claim Offer",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "offer_RPNUAp",
-        "offer_cQKBWq"
+        "offer_cQKBWq",
+        "offer_3gmQQY"
       ],
       "settings": {
         "background_color": "",
