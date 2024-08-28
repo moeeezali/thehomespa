@@ -36,7 +36,6 @@
     left: 25px;
     width: calc(100% - 50px);
     padding: 20px;
-    background-color: #ffc981;
     border-radius: 30px;
     text-align: center;
 }
@@ -60,4 +59,10 @@ h3.offers__item-title {
     margin: 10px 0;
     font-size: 16px;
     font-weight: bold;
+}
+
+@media screen and (max-width: 950px) {
+    .offers__grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
 }

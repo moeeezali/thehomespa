@@ -11,6 +11,11 @@
     background: linear-gradient({{ section.settings.gradient }});
   }
 
+  .offers__item-content {
+    background-color: {{ section.settings.content_background_color }};
+    color: {{ section.settings.text_color }};
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -64,6 +69,11 @@
       "type": "textarea",
       "id": "gradient",
       "label": "Gradient" 
+    },
+    {
+      "type": "color",
+      "label": "Content Background Color",
+      "id": "content_background_color" 
     },
     {
       "type": "color",
