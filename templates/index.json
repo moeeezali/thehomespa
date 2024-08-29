@@ -63,6 +63,7 @@
       "blocks": {
         "offer_RPNUAp": {
           "type": "offer",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/spa-treatment.jpg",
             "title": "For First Time Offers",
