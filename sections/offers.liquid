@@ -16,11 +16,35 @@
     color: {{ section.settings.text_color }};
   }
 
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
+
+    .section-{{ section.id }}-padding .offers__grid {
+      grid-template-columns: repeat({{- section.blocks | size -}}, 1fr);
+    }
+
+    {%- if section.blocks.size == 1 -%}
+      .section-{{ section.id }}-padding .offers__grid {
+        padding: 0;
+      }
+
+      .section-{{ section.id }}-padding .offers__item-image {
+        border-radius: 0;
+        padding-bottom: 0;
+        height: 100vh;
+      }
+
+      .section-{{ section.id }}-padding .offers__item-content {
+        max-width: 50%;
+        left: 25%;
+        top: 40%;
+        bottom: auto;
+      }
+    {%- endif -%}
   }
 {%- endstyle -%}
 
@@ -85,6 +109,7 @@
     {
       "type": "offer",
       "name": "Offer",
+      "limit": 3,
       "settings": [
         {
           "type": "image_picker",
