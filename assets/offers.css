@@ -31,7 +31,7 @@
 
 .offers__item-content {
     position: absolute;
-    bottom: 25px;
+    bottom: 5%;
     left: 25px;
     width: calc(100% - 50px);
     padding: 20px;
@@ -62,6 +62,7 @@ h3.offers__item-title {
 
 p.offers__item-text {
     line-break: anywhere;
+    font-size: 12px;
 }
 
 @media screen and (max-width: 999px) {
