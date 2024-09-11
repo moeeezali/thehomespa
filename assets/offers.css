@@ -1,7 +1,7 @@
 .offers__grid {
     display: grid;
     gap: 30px;
-    padding: 50px;
+    padding: 20px;
 }
 
 .offers__item-inner {

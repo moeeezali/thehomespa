@@ -25,6 +25,7 @@
 
     .section-{{ section.id }}-padding .offers__grid {
       grid-template-columns: repeat({{- section.blocks | size -}}, 1fr);
+      padding: 50px;
     }
 
     {%- if section.blocks.size == 1 -%}
