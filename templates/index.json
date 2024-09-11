@@ -63,7 +63,6 @@
       "blocks": {
         "offer_RPNUAp": {
           "type": "offer",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Photo_20-08-2024_3_29_54_PM.jpg",
             "title": "The Home Spa Day Package",
@@ -75,17 +74,19 @@
         },
         "offer_cQKBWq": {
           "type": "offer",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/spa-face-mask.jpg",
-            "title": "90min Full Body Massage",
-            "content": "asdasdasdasdasdasdasdas",
-            "discount": "20% OFF",
+            "image": "shopify:\/\/shop_images\/Photo_20-08-2024_4_48_10_PM_copy.jpg",
+            "title": "The Home Spa Day Package",
+            "content": "Relaxing 90 min Massage with 30min Hair oil massage",
+            "discount": "390 AED",
             "button": "Claim Offer",
             "link": ""
           }
         },
         "offer_3gmQQY": {
           "type": "offer",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/fashion-portrait.jpg",
             "title": "Classic Mani-Pedi + Gold Facial",
@@ -101,7 +102,6 @@
         "offer_cQKBWq",
         "offer_3gmQQY"
       ],
-      "disabled": true,
       "settings": {
         "background_color": "#ffffff",
         "gradient": "61deg, rgba(193, 134, 93, 1) 1%, rgba(220, 193, 180, 1) 44%, rgba(207, 215, 222, 1) 77%",
