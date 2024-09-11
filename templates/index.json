@@ -74,14 +74,13 @@
         },
         "offer_cQKBWq": {
           "type": "offer",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Photo_20-08-2024_4_48_10_PM_copy.jpg",
             "title": "The Home Spa Day Package",
             "content": "Relaxing 90 min Massage with 30min Hair oil massage",
             "discount": "390 AED",
             "button": "Claim Offer",
-            "link": ""
+            "link": "https:\/\/www.fresha.com\/book-now\/the-home-spa-sxsz4qdb\/services?pId=783694"
           }
         },
         "offer_3gmQQY": {
