@@ -64,7 +64,7 @@ p.offers__item-text {
     line-break: anywhere;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 999px) {
     .offers__grid {
         grid-template-columns: repeat(1, 1fr);
     }
