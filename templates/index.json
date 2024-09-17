@@ -520,6 +520,7 @@
       "blocks": {
         "instafeed_story_app_block_story_he6jfc": {
           "type": "shopify:\/\/apps\/instafeed-story\/blocks\/app-block-story\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+          "disabled": true,
           "settings": {
           }
         },
