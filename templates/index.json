@@ -263,11 +263,11 @@
         "template--20936574402871__4ae268ea-9995-455a-8c4a-364204c05d57-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Photo_20-08-2024_4_47_13_PM_copy.jpg",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/DSC03647.jpg",
+        "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
