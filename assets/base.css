@@ -2387,6 +2387,12 @@ product-info .loading-overlay:not(.hidden) ~ *,
   max-width: 40%;
 }
 
+@media screen and (max-width: 767px) {
+  .header__heading-logo {
+    max-width: 100%;
+  }
+}
+
 .header__heading-logo-wrapper {
   width: 100%;
   display: inline-block;
