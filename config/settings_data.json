@@ -151,15 +151,15 @@
         "settings": {
         }
       },
-      "13057770590969753118": {
-        "type": "shopify:\/\/apps\/instafeed-story\/blocks\/app-embed\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+      "1232542678405107163": {
+        "type": "shopify:\/\/apps\/instafeed\/blocks\/head-block\/c447db20-095d-4a10-9725-b5977662c9d5",
         "disabled": false,
         "settings": {
         }
       },
-      "1232542678405107163": {
-        "type": "shopify:\/\/apps\/instafeed\/blocks\/head-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-        "disabled": false,
+      "13057770590969753118": {
+        "type": "shopify:\/\/apps\/instafeed-story\/blocks\/app-embed\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+        "disabled": true,
         "settings": {
         }
       }
