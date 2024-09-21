@@ -514,7 +514,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      "#stories {display: none !important;}"
     ]
   }
 }
