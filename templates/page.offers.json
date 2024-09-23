@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -13,45 +22,45 @@
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-12_at_5.39.40_PM.png",
+            "image": "shopify://shop_images/Screenshot_2023-12-12_at_5.39.40_PM.png",
             "caption": "Package 01",
             "heading": "",
-            "text": "<h3>BOOK MANI PEDI<br\/><br\/><strong>GET FREE<br\/><br\/><\/strong>15 Mins FOOT MASSAGE<\/h3>",
+            "text": "<h3>BOOK MANI PEDI<br/><br/><strong>GET FREE<br/><br/></strong>15 Mins FOOT MASSAGE</h3>",
             "button_label": "Book Now",
-            "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
+            "button_link": "https://wa.me/message/OUQJRBXD6FNUL1"
           }
         },
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-12_at_5.44.02_PM.png",
+            "image": "shopify://shop_images/Screenshot_2023-12-12_at_5.44.02_PM.png",
             "caption": "PACKAGE 02",
             "heading": "",
-            "text": "<h3>BOOK HAIR TREATMENT<br\/><br\/><strong>GET FREE<br\/><br\/><\/strong>20 Mins HEAD MASSAGE<\/h3>",
+            "text": "<h3>BOOK HAIR TREATMENT<br/><br/><strong>GET FREE<br/><br/></strong>20 Mins HEAD MASSAGE</h3>",
             "button_label": "Book Now",
-            "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
+            "button_link": "https://wa.me/message/OUQJRBXD6FNUL1"
           }
         },
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-12_at_5.48.32_PM.png",
+            "image": "shopify://shop_images/Screenshot_2023-12-12_at_5.48.32_PM.png",
             "caption": "PACKAGE 03",
             "heading": "",
-            "text": "<h3>BOOK EYE LASHES<br\/><br\/><strong>GET FREE<br\/><br\/><\/strong>EYEBROW+UPPER LIP<br\/>THREADING<\/h3>",
+            "text": "<h3>BOOK EYE LASHES<br/><br/><strong>GET FREE<br/><br/></strong>EYEBROW+UPPER LIP<br/>THREADING</h3>",
             "button_label": "Book Now",
-            "button_link": "https:\/\/wa.me\/message\/OUQJRBXD6FNUL1"
+            "button_link": "https://wa.me/message/OUQJRBXD6FNUL1"
           }
         },
         "99b4ed7a-8b70-405f-99c2-6fdf27b3b894": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/THS_OFFER-12_fea1c200-beb3-4e42-8d36-2c168d2597bf.png",
+            "image": "shopify://shop_images/THS_OFFER-12_fea1c200-beb3-4e42-8d36-2c168d2597bf.png",
             "caption": "PACJAGE 04",
             "heading": "",
-            "text": "<h2>FULL BODY MASSAGE<br\/><strong><br\/>10% OFF<\/strong><\/h2>",
+            "text": "<h2>FULL BODY MASSAGE<br/><strong><br/>10% OFF</strong></h2>",
             "button_label": "Book Now!",
-            "button_link": "https:\/\/api.whatsapp.com\/send?phone=562211224&text=I'd%20like%20to%20book%20#package04"
+            "button_link": "https://api.whatsapp.com/send?phone=562211224&text=I'd%20like%20to%20book%20#package04"
           }
         }
       },
@@ -61,6 +70,7 @@
         "template--21563368276279__2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d-row-3",
         "99b4ed7a-8b70-405f-99c2-6fdf27b3b894"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "small",
         "desktop_image_width": "small",
