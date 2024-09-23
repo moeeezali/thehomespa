@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Asset_1.svg",
+    "logo": "shopify://shop_images/Asset_1.svg",
     "logo_width": 50,
-    "favicon": "shopify:\/\/shop_images\/THE_HOME_SPA-Emblem-03.png",
+    "favicon": "shopify://shop_images/THE_HOME_SPA-Emblem-03.png",
     "type_header_font": "poppins_n4",
     "heading_scale": 150,
     "type_body_font": "poppins_n4",
@@ -108,13 +108,13 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100063902061266",
-    "social_instagram_link": "https:\/\/www.instagram.com\/thehomespa\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/@thehomespa3146",
+    "social_facebook_link": "https://www.facebook.com/profile.php?id=100063902061266",
+    "social_instagram_link": "https://www.instagram.com/thehomespa/",
+    "social_youtube_link": "https://www.youtube.com/@thehomespa3146",
     "social_tiktok_link": "",
-    "social_twitter_link": "https:\/\/twitter.com\/thehomespa",
+    "social_twitter_link": "https://twitter.com/thehomespa",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
@@ -146,19 +146,19 @@
     ],
     "blocks": {
       "1232542678405107163": {
-        "type": "shopify:\/\/apps\/instafeed\/blocks\/head-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
         "disabled": false,
         "settings": {
         }
       },
       "13057770590969753118": {
-        "type": "shopify:\/\/apps\/instafeed-story\/blocks\/app-embed\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+        "type": "shopify://apps/instafeed-story/blocks/app-embed/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
         "disabled": true,
         "settings": {
         }
       },
       "17870684812516439219": {
-        "type": "shopify:\/\/apps\/instafeed\/blocks\/app-embed\/9d35f684-f743-45ca-9cc2-c5409bb241a8",
+        "type": "shopify://apps/instafeed/blocks/app-embed/9d35f684-f743-45ca-9cc2-c5409bb241a8",
         "disabled": true,
         "settings": {
         }
@@ -290,7 +290,7 @@
         "settings": {
           "background": "#dcc1b4",
           "background_gradient": "",
-          "text": "#f3f3f3",
+          "text": "#ffffff",
           "button": "#c1865d",
           "button_label": "#ffffff",
           "secondary_button_label": "#ffffff",
@@ -477,7 +477,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
