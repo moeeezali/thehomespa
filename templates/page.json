@@ -61,7 +61,7 @@
         "#stories {display: none !important;}"
       ],
       "settings": {
-        "background_color": "#f3f3f3",
+        "background_color": "#ffffff",
         "gradient": "",
         "content_background_color": "#cfd7de",
         "text_color": "#121212"
