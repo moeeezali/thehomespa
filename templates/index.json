@@ -23,7 +23,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Schedule Your Session Now",
-            "button_link_1": "https:\/\/www.fresha.com\/providers\/the-home-spa-sxsz4qdb?allOffer=true",
+            "button_link_1": "https://www.fresha.com/providers/the-home-spa-sxsz4qdb?allOffer=true",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "tel:0562211224",
@@ -44,15 +44,15 @@
         "text_4WAt7E"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled.png",
-        "image_2": "shopify:\/\/shop_images\/Photo_20-08-2024_4_48_10_PM_copy.jpg",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/Untitled.png",
+        "image_2": "shopify://shop_images/Photo_20-08-2024_4_48_10_PM_copy.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-8aaacb26-4b18-4697-b061-aa8123997f17",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -64,34 +64,34 @@
         "offer_RPNUAp": {
           "type": "offer",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo_20-08-2024_3_29_54_PM.jpg",
+            "image": "shopify://shop_images/Photo_20-08-2024_3_29_54_PM.jpg",
             "title": "The Home Spa Day Package",
             "content": "Essentials Manicure, Pedicure & Blowdry",
             "discount": "290 AED",
             "button": "Claim Offer",
-            "link": "https:\/\/www.fresha.com\/book-now\/the-home-spa-sxsz4qdb\/services?pId=783694"
+            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
           }
         },
         "offer_cQKBWq": {
           "type": "offer",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo_20-08-2024_4_47_13_PM_copy.jpg",
+            "image": "shopify://shop_images/Photo_20-08-2024_4_47_13_PM_copy.jpg",
             "title": "The Home Spa Day Package",
             "content": "Relaxing 90 min Massage with 30min Hair oil massage",
             "discount": "390 AED",
             "button": "Claim Offer",
-            "link": "https:\/\/www.fresha.com\/book-now\/the-home-spa-sxsz4qdb\/services?pId=783694"
+            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
           }
         },
         "offer_3gmQQY": {
           "type": "offer",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Photo_20-08-2024_3_36_06_PM.jpg",
+            "image": "shopify://shop_images/Photo_20-08-2024_3_36_06_PM.jpg",
             "title": "Gelish Manicure & pedicure",
             "content": "Pamper yourself with our Gelish Manicure & pedicure",
             "discount": "250 AED",
             "button": "Claim Offer",
-            "link": "https:\/\/www.fresha.com\/book-now\/the-home-spa-sxsz4qdb\/services?pId=783694"
+            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
           }
         }
       },
@@ -113,21 +113,21 @@
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Winter Wonder!<\/strong>",
+            "heading": "<strong>Winter Wonder!</strong>",
             "heading_size": "h1"
           }
         },
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>The Home Spa's December Serenity<br\/><\/h2>"
+            "text": "<h2>The Home Spa's December Serenity<br/></h2>"
           }
         },
         "template--20755938148663__8effb2e4-fdaa-4ab5-8330-11384fce2246-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Explore November's Deals!",
-            "button_link": "shopify:\/\/pages\/offers",
+            "button_link": "shopify://pages/offers",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -165,14 +165,14 @@
         "template--20678168084791__35dc36d8-b7bf-44b6-9fab-c9d6fbe61310-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>100 Million+<\/strong>",
+            "heading": "<strong>100 Million+</strong>",
             "heading_size": "hxl"
           }
         },
         "template--20678168084791__35dc36d8-b7bf-44b6-9fab-c9d6fbe61310-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>Appointments Booked at The Home Spa<\/strong><\/h2>"
+            "text": "<h2><strong>Appointments Booked at The Home Spa</strong></h2>"
           }
         },
         "template--20678168084791__35dc36d8-b7bf-44b6-9fab-c9d6fbe61310-button-1": {
@@ -207,7 +207,7 @@
       "type": "featured-collection",
       "disabled": true,
       "settings": {
-        "title": "<strong>Shop Our Best Sellers<\/strong>",
+        "title": "<strong>Shop Our Best Sellers</strong>",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -238,22 +238,22 @@
         "template--20936574402871__4ae268ea-9995-455a-8c4a-364204c05d57-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Why choose The Home Spa?",
-            "heading_size": "h2"
+            "heading": "Why choose <strong>The HOME SPA?</strong>",
+            "heading_size": "h1"
           }
         },
         "template--20936574402871__4ae268ea-9995-455a-8c4a-364204c05d57-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>In today's fast-paced world, self-care and relaxation are more crucial than ever. Finding a sanctuary where you can rejuvenate your mind and body becomes essential, and that's where THE HOME SPA steps in. As a premier provider of home spa services, we take pride in offering an unparalleled spa experience right at your doorstep. Here's why you should choose THE HOME SPA for your ultimate pampering journey<\/p>",
-            "text_style": "body"
+            "text": "<p>In today's fast-paced world, self-care and relaxation are more crucial than ever. Finding a sanctuary where you can rejuvenate your mind and body becomes essential, and that's where THE HOME SPA steps in. As a premier provider of home spa services, we take pride in offering an unparalleled spa experience right at your doorstep. Here's why you should choose THE HOME SPA for your ultimate pampering journey</p>",
+            "text_style": "subtitle"
           }
         },
         "template--20936574402871__4ae268ea-9995-455a-8c4a-364204c05d57-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/about-the-home-spa"
+            "button_link": "shopify://pages/about-the-home-spa"
           }
         }
       },
@@ -263,7 +263,7 @@
         "template--20936574402871__4ae268ea-9995-455a-8c4a-364204c05d57-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC03647.jpg",
+        "image": "shopify://shop_images/DSC03647.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -284,8 +284,8 @@
         "heading": "",
         "heading_size": "h0",
         "enable_video_looping": false,
-        "video_url": "https:\/\/youtu.be\/FahRVpQWibs",
-        "cover_image": "shopify:\/\/shop_images\/spa-facial-treatment.jpg",
+        "video_url": "https://youtu.be/FahRVpQWibs",
+        "cover_image": "shopify://shop_images/spa-facial-treatment.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -299,7 +299,7 @@
         "template--19875216982327__7693ee02-2ed8-4d1f-bb9a-0f41dc0b4d0e-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "FOLLOW US @<strong>THEHOMESPA<\/strong>",
+            "heading": "FOLLOW US @<strong>THEHOMESPA</strong>",
             "heading_size": "h1"
           }
         },
@@ -307,7 +307,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
         "template--19875216982327__7693ee02-2ed8-4d1f-bb9a-0f41dc0b4d0e-button-1": {
@@ -342,7 +342,7 @@
       "type": "apps",
       "blocks": {
         "e6247c56-2897-46a3-922f-e8015b2f10f1": {
-          "type": "shopify:\/\/apps\/revit-google-reviews\/blocks\/main\/b25781f7-eb7e-4149-aced-1fc05e163d0d",
+          "type": "shopify://apps/revit-google-reviews/blocks/main/b25781f7-eb7e-4149-aced-1fc05e163d0d",
           "disabled": true,
           "settings": {
             "free_text": "Let our customers speak for us",
@@ -360,7 +360,7 @@
           }
         },
         "6ef95f5d-30b0-4322-9714-bd068a1ed31c": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/9d35f684-f743-45ca-9cc2-c5409bb241a8",
+          "type": "shopify://apps/instafeed/blocks/app-block/9d35f684-f743-45ca-9cc2-c5409bb241a8",
           "disabled": true,
           "settings": {
             "heading": "",
@@ -368,7 +368,7 @@
           }
         },
         "f50e9c25-6d39-4b26-b433-3fde434dbd0f": {
-          "type": "shopify:\/\/apps\/revit-google-reviews\/blocks\/main\/b25781f7-eb7e-4149-aced-1fc05e163d0d",
+          "type": "shopify://apps/revit-google-reviews/blocks/main/b25781f7-eb7e-4149-aced-1fc05e163d0d",
           "disabled": true,
           "settings": {
             "free_text": "Let our customers speak for us",
@@ -401,41 +401,41 @@
         "template--20678168084791__90576e3c-d61b-4f35-a3bd-25afbe86e184-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-19_at_7.07.23_PM.png",
+            "image": "shopify://shop_images/Screenshot_2023-08-19_at_7.07.23_PM.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/blogs\/news"
+            "link": "shopify://blogs/news"
           }
         },
         "template--20678168084791__90576e3c-d61b-4f35-a3bd-25afbe86e184-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-19_at_7.07.32_PM.png",
+            "image": "shopify://shop_images/Screenshot_2023-08-19_at_7.07.32_PM.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/www.thenationalnews.com\/lifestyle\/wellbeing\/16-at-home-spa-nail-and-hairdressing-services-in-the-uae-for-men-women-and-children-1.1188967"
+            "link": "https://www.thenationalnews.com/lifestyle/wellbeing/16-at-home-spa-nail-and-hairdressing-services-in-the-uae-for-men-women-and-children-1.1188967"
           }
         },
         "template--20678168084791__90576e3c-d61b-4f35-a3bd-25afbe86e184-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-19_at_7.07.42_PM.png",
+            "image": "shopify://shop_images/Screenshot_2023-08-19_at_7.07.42_PM.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/www.bayut.com\/mybayut\/home-spas-abu-dhabi\/"
+            "link": "https://www.bayut.com/mybayut/home-spas-abu-dhabi/"
           }
         },
         "f3993b23-1810-44f8-9a18-ddda2a9863af": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-19_at_7.07.52_PM.png",
+            "image": "shopify://shop_images/Screenshot_2023-08-19_at_7.07.52_PM.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/www.cosmopolitanme.com\/beauty\/best-home-beauty-services-dubai"
+            "link": "https://www.cosmopolitanme.com/beauty/best-home-beauty-services-dubai"
           }
         }
       },
@@ -469,7 +469,7 @@
           "type": "column",
           "settings": {
             "title": "Farah Deif",
-            "text": "<p>Best salon service ever!! So clean and professional. They have a wide range of colours for nails and did amazing work to my nails! Totally recommend for pampering yourself with special treatment! ❤️<\/p>",
+            "text": "<p>Best salon service ever!! So clean and professional. They have a wide range of colours for nails and did amazing work to my nails! Totally recommend for pampering yourself with special treatment! ❤️</p>",
             "link_label": "",
             "link": ""
           }
@@ -478,7 +478,7 @@
           "type": "column",
           "settings": {
             "title": "Latifa Mohammad",
-            "text": "<p>Amazing service with industry’s best team. Highly recommend mary for massage, shes the best! Their mani pedi is always on point, the girls are very professional and clearly highly qualified to do their job at great standards.<\/p>",
+            "text": "<p>Amazing service with industry’s best team. Highly recommend mary for massage, shes the best! Their mani pedi is always on point, the girls are very professional and clearly highly qualified to do their job at great standards.</p>",
             "link_label": "",
             "link": ""
           }
@@ -487,7 +487,7 @@
           "type": "column",
           "settings": {
             "title": "Hind Mansoori",
-            "text": "<p>The best service is Home Service.. Their work is on nails and there is no mistake and the treatment is beautiful in all aspects. They are truly creative👍<\/p>",
+            "text": "<p>The best service is Home Service.. Their work is on nails and there is no mistake and the treatment is beautiful in all aspects. They are truly creative👍</p>",
             "link_label": "",
             "link": ""
           }
@@ -507,7 +507,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Write a review",
-        "button_link": "https:\/\/g.page\/r\/CQQiCF176TkDEB0\/review",
+        "button_link": "https://g.page/r/CQQiCF176TkDEB0/review",
         "color_scheme": "scheme-02ad9199-aee8-4eb5-b9da-f53f14651bb2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -519,7 +519,7 @@
       "type": "apps",
       "blocks": {
         "instafeed_app_block_KCG764": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
@@ -529,7 +529,7 @@
           }
         },
         "instafeed_story_app_block_feeds_chVWAW": {
-          "type": "shopify:\/\/apps\/instafeed-story\/blocks\/app-block-feeds\/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+          "type": "shopify://apps/instafeed-story/blocks/app-block-feeds/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
           "disabled": true,
           "settings": {
           }
