@@ -44,11 +44,12 @@
         "offer_Lk7znh": {
           "type": "offer",
           "settings": {
-            "title": "",
-            "content": "",
-            "discount": "",
-            "button": "",
-            "link": ""
+            "image": "shopify://shop_images/DSC03121_copy.jpg",
+            "title": "Gelish Manicure & pedicure",
+            "content": "Pamper yourself with our Gelish Manicure & pedicure",
+            "discount": "250 AED",
+            "button": "Claim Offer",
+            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
           }
         }
       },
