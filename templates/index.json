@@ -44,9 +44,9 @@
         "text_4WAt7E"
       ],
       "settings": {
-        "image": "shopify://shop_images/Photo_20-08-2024_4_47_03_PM_copy.jpg",
+        "image": "shopify://shop_images/Abu_Dhabi.jpg",
         "image_2": "shopify://shop_images/Photo_20-08-2024_4_48_10_PM_copy.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 50,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
