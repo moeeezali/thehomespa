@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 4,
         "padding_bottom": 28
@@ -87,6 +88,50 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_EdQzH3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_t834Wz": {
+          "type": "heading",
+          "settings": {
+            "heading": "packages",
+            "heading_size": "h1"
+          }
+        },
+        "text_aCLVHA": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_f7q7hH": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_t834Wz",
+        "text_aCLVHA",
+        "button_f7q7hH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3dab660f-5e1c-413f-8d02-8238a0d87aed",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "offers_h6nKxY": {
       "type": "offers",
       "blocks": {
@@ -140,6 +185,7 @@
   "order": [
     "main",
     "2317ff2d-33e3-4e2b-ad41-e9d1b1630f0d",
+    "rich_text_EdQzH3",
     "offers_h6nKxY"
   ]
 }
