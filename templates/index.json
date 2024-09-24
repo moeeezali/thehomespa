@@ -102,10 +102,13 @@
         "offer_cQKBWq",
         "offer_3gmQQY"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "background_color": "#ffffff",
         "gradient": "",
-        "content_background_color": "#f5f6f6",
+        "content_background_color": "#cfd7de",
         "text_color": "#121212"
       }
     },
