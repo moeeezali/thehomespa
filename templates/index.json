@@ -14,6 +14,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "feel your best",
             "heading_size": "h0"
@@ -32,6 +33,7 @@
         },
         "text_4WAt7E": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "At The Home Spa, we understand that life can be hectic, leaving little time for self-care. That's why we bring the salon experience directly to you, offering a range of luxurious beauty services in the comfort of your own home.",
             "text_style": "subtitle"
@@ -44,9 +46,9 @@
         "text_4WAt7E"
       ],
       "settings": {
-        "image": "shopify://shop_images/Abu_Dhabi.jpg",
+        "image": "shopify://shop_images/Banner_3.jpg",
         "image_2": "shopify://shop_images/Photo_20-08-2024_4_48_10_PM_copy.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
