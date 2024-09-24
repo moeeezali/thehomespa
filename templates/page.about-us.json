@@ -138,8 +138,8 @@
         "text_bD8Pti",
         "buttons_gaLUKx"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/About_us.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
