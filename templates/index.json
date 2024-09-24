@@ -46,11 +46,11 @@
         "text_4WAt7E"
       ],
       "settings": {
-        "image": "shopify://shop_images/Banner_5ad0cc32-9a9c-49e6-b360-9219cddb6fa7.jpg",
+        "image": "shopify://shop_images/Banner_2.jpg",
         "image_2": "shopify://shop_images/Photo_20-08-2024_4_48_10_PM_copy.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-8aaacb26-4b18-4697-b061-aa8123997f17",
