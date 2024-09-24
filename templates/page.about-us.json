@@ -61,6 +61,16 @@
         "padding_bottom": 52
       }
     },
+    "custom_liquid_iXLVM7": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "f83e8e06-9447-4b8d-89e5-c38a97accb2f": {
       "type": "image-banner",
       "blocks": {
@@ -81,6 +91,57 @@
         "image": "shopify://shop_images/About_us_Banner.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_FCqwHz": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VKVFRh": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_bD8Pti": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_gaLUKx": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VKVFRh",
+        "text_bD8Pti",
+        "buttons_gaLUKx"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/About_us.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -137,7 +198,9 @@
   "order": [
     "main",
     "rich_text_jpK78V",
+    "custom_liquid_iXLVM7",
     "f83e8e06-9447-4b8d-89e5-c38a97accb2f",
+    "image_banner_FCqwHz",
     "55a649c4-4606-4f42-839b-93d4426f0650"
   ]
 }
