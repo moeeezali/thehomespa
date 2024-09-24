@@ -50,7 +50,7 @@
         "image_2": "shopify://shop_images/Photo_20-08-2024_4_48_10_PM_copy.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "bottom-left",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-8aaacb26-4b18-4697-b061-aa8123997f17",
