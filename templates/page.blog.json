@@ -31,7 +31,6 @@
       "block_order": [
         "template--21480148009271__7bd5253a-607c-4268-b89f-442e092ac917-heading-1"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Why_choose_The_Home_Spa_Banner.jpg",
         "image_overlay_opacity": 0,
@@ -79,7 +78,6 @@
         "template--21480148009271__55bcaeb8-562b-472d-819c-eaae4295f3f2-text-1",
         "template--21480148009271__55bcaeb8-562b-472d-819c-eaae4295f3f2-button-1"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
