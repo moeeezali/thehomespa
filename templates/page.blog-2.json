@@ -1,0 +1,123 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_xjPbGg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XmxCtY": {
+          "type": "heading",
+          "settings": {
+            "heading": "The HOME SPA Packages",
+            "heading_size": "h0"
+          }
+        },
+        "text_qtR7Kw": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_fceLJ9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XmxCtY",
+        "text_qtR7Kw",
+        "button_fceLJ9"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3dab660f-5e1c-413f-8d02-8238a0d87aed",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 4
+      }
+    },
+    "offers_pL6yAJ": {
+      "type": "offers",
+      "blocks": {
+        "offer_Qz4iBR": {
+          "type": "offer",
+          "settings": {
+            "image": "shopify://shop_images/Photo_20-08-2024_3_29_54_PM.png",
+            "title": "The Home Spa Day Package",
+            "content": "Essentials Manicure, Pedicure & Blowdry",
+            "discount": "290 AED",
+            "button": "Claim Offer",
+            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
+          }
+        },
+        "offer_7Qgb8N": {
+          "type": "offer",
+          "settings": {
+            "image": "shopify://shop_images/Photo_20-08-2024_4_47_03_PM_copy.jpg",
+            "title": "The Home Spa Day Package",
+            "content": "Relaxing 90 min Massage with 30min Hair oil massage",
+            "discount": "390 AED",
+            "button": "Claim Offer",
+            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
+          }
+        },
+        "offer_Lk7znh": {
+          "type": "offer",
+          "settings": {
+            "image": "shopify://shop_images/DSC03121_copy.jpg",
+            "title": "Gelish Manicure & pedicure",
+            "content": "Pamper yourself with our Gelish Manicure & pedicure",
+            "discount": "250 AED",
+            "button": "Claim Offer",
+            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
+          }
+        }
+      },
+      "block_order": [
+        "offer_Qz4iBR",
+        "offer_7Qgb8N",
+        "offer_Lk7znh"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "#stories {display: none !important;}"
+      ],
+      "settings": {
+        "background_color": "#ffffff",
+        "gradient": "",
+        "content_background_color": "#cfd7de",
+        "text_color": "#121212"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_xjPbGg",
+    "offers_pL6yAJ"
+  ]
+}
