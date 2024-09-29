@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -22,7 +23,7 @@
         "heading_XmxCtY": {
           "type": "heading",
           "settings": {
-            "heading": "The HOME SPA Packages",
+            "heading": "Blog",
             "heading_size": "h0"
           }
         },
@@ -51,7 +52,6 @@
         "text_qtR7Kw",
         "button_fceLJ9"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -61,63 +61,44 @@
         "padding_bottom": 4
       }
     },
-    "offers_pL6yAJ": {
-      "type": "offers",
+    "multirow_NtdMDb": {
+      "type": "multirow",
       "blocks": {
-        "offer_Qz4iBR": {
-          "type": "offer",
+        "row_XjrKpm": {
+          "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Photo_20-08-2024_3_29_54_PM.png",
-            "title": "The Home Spa Day Package",
-            "content": "Essentials Manicure, Pedicure & Blowdry",
-            "discount": "290 AED",
-            "button": "Claim Offer",
-            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
-          }
-        },
-        "offer_7Qgb8N": {
-          "type": "offer",
-          "settings": {
-            "image": "shopify://shop_images/Photo_20-08-2024_4_47_03_PM_copy.jpg",
-            "title": "The Home Spa Day Package",
-            "content": "Relaxing 90 min Massage with 30min Hair oil massage",
-            "discount": "390 AED",
-            "button": "Claim Offer",
-            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
-          }
-        },
-        "offer_Lk7znh": {
-          "type": "offer",
-          "settings": {
-            "image": "shopify://shop_images/DSC03121_copy.jpg",
-            "title": "Gelish Manicure & pedicure",
-            "content": "Pamper yourself with our Gelish Manicure & pedicure",
-            "discount": "250 AED",
-            "button": "Claim Offer",
-            "link": "https://www.fresha.com/book-now/the-home-spa-sxsz4qdb/services?pId=783694"
+            "image": "shopify://shop_images/DSC03647.jpg",
+            "caption": "",
+            "heading": "why choose The Home Spa?",
+            "text": "",
+            "button_label": "Read Now",
+            "button_link": "https://thehomespa.ae/pages/about-the-home-spa"
           }
         }
       },
       "block_order": [
-        "offer_Qz4iBR",
-        "offer_7Qgb8N",
-        "offer_Lk7znh"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "#stories {display: none !important;}"
+        "row_XjrKpm"
       ],
       "settings": {
-        "background_color": "#ffffff",
-        "gradient": "",
-        "content_background_color": "#cfd7de",
-        "text_color": "#121212"
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-3dab660f-5e1c-413f-8d02-8238a0d87aed",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "rich_text_xjPbGg",
-    "offers_pL6yAJ"
+    "multirow_NtdMDb"
   ]
 }
