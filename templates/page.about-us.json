@@ -507,7 +507,7 @@
       "settings": {
         "image": "shopify://shop_images/Screenshot_2024-09-30_at_12.05.30_AM.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
