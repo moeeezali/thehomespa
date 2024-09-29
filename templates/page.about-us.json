@@ -17,6 +17,507 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_BiUhf3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EBjjCb": {
+          "type": "heading",
+          "settings": {
+            "heading": "After navigating days filled with socialengagements, work demands, and familyobligations, sometimes all you need is aguilt-free retreat.",
+            "heading_size": "h2"
+          }
+        },
+        "heading_z79wdw": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "⎯   That's where we step in  ⎯",
+            "heading_size": "h2"
+          }
+        },
+        "text_wnXgRk": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>⎯   That's where we step in  ⎯</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EBjjCb",
+        "heading_z79wdw",
+        "text_wnXgRk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-73802734-e7a3-4f55-9601-197677a9ec82",
+        "full_width": true,
+        "padding_top": 56,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_waixBc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rbyRUJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Self-love and self-care are priorities draped inluxury; still they are essential necessities.",
+            "heading_size": "h2"
+          }
+        },
+        "text_BCnnBk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pampering isn’t just a luxury; it’s a necessity. Recognizing the inherent importance of prioritizing oneself involves embracing moments of personal attention and investing in your well-being, allowing yourself to radiate confidence and vitality from within. That's why we bring accessible, high-quality services to your doorstep, offering everything from nail care to facials, hair styling, and massages, regardless of age or gender.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rbyRUJ",
+        "text_BCnnBk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_cnCxRQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cC44HP": {
+          "type": "heading",
+          "settings": {
+            "heading": "How it all began",
+            "heading_size": "h2"
+          }
+        },
+        "text_mqAYKj": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Founded in May 2011, The Home Spa began with a focus on manicures and pedicures, later expanding its services to include hair, hair removal, body scrubs, massages, and more. This expansion led to its emergence as the leading provider of home beauty services in Abu Dhabi.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "caption_6rddUQ": {
+          "type": "caption",
+          "settings": {
+            "caption": "The genesis of The Home Spa is deeply personal, rooted in theexperiences of our founder, Noura M. Al Ahbabi. As a new mothermanaging a demanding career, Noura epitomizes dedication, balancingresponsibilities at home and in the workplace. Recognizing the scarcityof self-care options, she founded The Home Spa with a vision to redefinewellness, envisioning it as a personal sanctuary within the home.",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cC44HP",
+        "text_mqAYKj",
+        "caption_6rddUQ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/DSC03121_copy.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-02ad9199-aee8-4eb5-b9da-f53f14651bb2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_qH3p69": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_AqHk3r": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>5 cities</strong>",
+            "text": "<p>We currently operate in several cities throughout the UAE, including Abu Dhabi, Dubai, Al Ain, Sharjah and Ajman with plans for further expansion.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HY8WqG": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>40 employees</strong>",
+            "text": "<p>Diversity is at our core, fostering an inclusive environment for our 40+ employees from diverse nationalities including UAE locals, British, Indians, Filipinos, Tunisians, Nepalese, Egyptians, and Russians.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JDehi7": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>12 vehicles</strong>",
+            "text": "<p>Given the unique demands of our home service spa and salon, The Home Spa now boasts a fleet of over 12 vehicles stationed across the UAE.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_AqHk3r",
+        "column_HY8WqG",
+        "column_JDehi7"
+      ],
+      "settings": {
+        "title": "Today,",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-73802734-e7a3-4f55-9601-197677a9ec82",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_hpfQD8": {
+      "type": "multirow",
+      "blocks": {
+        "row_kmz8LE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Photo_20-08-2024_6_24_27_PM.jpg",
+            "caption": "",
+            "heading": "Our Promise",
+            "text": "<p>We proudly present an experience that embraces raw, unfiltered realness—no glossy facades, just genuine care. We are down-to-earth and humble, grounded in our love for self-care to spread beauty in all its shapes and colors. Here, it's not merely about beauty; it's a haven for mental and psychological well-being, a serene moment to reflect amidst life's hustle.</p><p>Our commitment extends to affordability, ensuring that our rejuvenating services are accessible to everyone. This is a space that transcends age and gender, inviting all to partake in the tranquility. Our spa is not just a one-time indulgence; it's an affordable service designed for regular moments of self-love. We promise an authentic, ageless, and all-inclusive retreat for the soul.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_kmz8LE"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_gdhLKR": {
+      "type": "image-banner",
+      "settings": {
+        "image_2": "shopify://shop_images/Abu_Dhabi.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_JMtiPh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_H9bXPK": {
+          "type": "column",
+          "settings": {
+            "title": "Wellness",
+            "text": "<p>Our services focus on holistic health — addressing physical, mental, and emotional well-being. It's a philosophy guiding individuals toward balance and fulfillment.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8cwdVr": {
+          "type": "column",
+          "settings": {
+            "title": "Connection",
+            "text": "<p>Through personalized treatments and warm service, we aim to deepen clients' well- being, fostering a connection to the present moment that extends beyond the session.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8h8WWK": {
+          "type": "column",
+          "settings": {
+            "title": "Accessibility",
+            "text": "<p>By breaking down barriers, we aim to create a space where individuals from various backgrounds and budgets can enjoy the rejuvenating effects of our services.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aMDEm9": {
+          "type": "column",
+          "settings": {
+            "title": "Exclusive",
+            "text": "<p>We believe in empowering individuals of all ages and genders to express their authenticity and uniqueness. Beauty knows no boundaries with our services.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4CAtCx": {
+          "type": "column",
+          "settings": {
+            "title": "Quiet Luxury",
+            "text": "<p>We prioritize subtle elegance over extravagance, creating spa experiences that offer a refined escape.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qxTwXH": {
+          "type": "column",
+          "settings": {
+            "title": "Time",
+            "text": "<p>Your time is precious. Enjoy our convenient, high-quality services that eliminate salon visits, freeing up your valuable time.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_H9bXPK",
+        "column_8cwdVr",
+        "column_8h8WWK",
+        "column_aMDEm9",
+        "column_4CAtCx",
+        "column_qxTwXH"
+      ],
+      "settings": {
+        "title": "Our Values",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-3dab660f-5e1c-413f-8d02-8238a0d87aed",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_V7dXQV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wHjXW7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Where to find us",
+            "heading_size": "h1"
+          }
+        },
+        "text_nkxF6w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Home Spa prides itself on delivering luxurious 5-star spa services directly to the doorstep of its esteemed clientele. Currently, our services cater to residents in four prominent cities across the UAE, including Abu Dhabi, Dubai, Al Ain, Sharjah and Ajman. However, our ambitious vision extends far beyond these boundaries, with strategic plans in place to extend our reach to the remaining Emirates and eventually across the broader Middle East region. </p><p>In September 2022, we opened our fourth branch in Sharjah independently. This expansion not only signifies our commitment to growth and excellence but also underscores our dedication to meeting the evolving needs and preferences of our valued customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wHjXW7",
+        "text_nkxF6w"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_CGqWrR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fAzdH4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Our Services</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_zKz8LV": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Having performed <strong>over 1500 Manicure & Pedicure sessions monthly and exceeding 18000 treatments annually</strong>, The Home Spa has earned the confidence of its community.</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fAzdH4",
+        "text_zKz8LV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-73802734-e7a3-4f55-9601-197677a9ec82",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_bzTYYA": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_PgicgW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Nails",
+            "icon": "none",
+            "row_content": "<p>• Manicure & Pedicure</p><p>• Nail Art</p><p>• Gel Polish</p><p>• Nail Extension</p><p>• Russian Manicure & Pedicure</p><p>• Temporary Stick on nails</p><p>• Kids Treatments</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TaKaCA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hands & Feet Treatments",
+            "icon": "none",
+            "row_content": "<p>• Paraffin Therapy</p><p>• Footlogix treatment</p><p>• Collagen Booster</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EE4RFw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hair Removal",
+            "icon": "none",
+            "row_content": "<p>• Threading</p><p>• Waxing</p><p>• Bleaching</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CcJcTp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hair Grooming",
+            "icon": "none",
+            "row_content": "<p>• Root Color</p><p>• Full Hair Coloring</p><p>• Haircut</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rMkgJU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hair Care",
+            "icon": "none",
+            "row_content": "<p>• Hair Mask</p><p>• Hair Oiling</p><p>• Aloe Vera Treatment</p><p>• L’Oreal Hair Treatment</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_actptB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hair Styling",
+            "icon": "none",
+            "row_content": "<p>• Blow Dry</p><p>• Pin - Up Waves</p><p>• Glam Curls</p><p>• Beach Waves</p><p>• Sleek Straight</p><p>• Up-do</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_aNcbJj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Standard Massages",
+            "icon": "none",
+            "row_content": "<p>• Traditional Thai Massage</p><p>• Swedish Massage</p><p>• Lomi Lomi Massage</p><p>• Sports Massage</p><p>• Shiatsu Massage</p><p>• Fusion Massage</p><p>• Reflexology</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_w8387k": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Signature Massages",
+            "icon": "none",
+            "row_content": "<p>• Thai Herbal Therapy Massage</p><p>• Kahraman Massage</p><p>• Hot Stone Massage</p><p>• Luxury Oriental Scented</p><p>• Anti-Cellulite</p><p>• Mother to be Massage</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_PgicgW",
+        "collapsible_row_TaKaCA",
+        "collapsible_row_EE4RFw",
+        "collapsible_row_CcJcTp",
+        "collapsible_row_rMkgJU",
+        "collapsible_row_actptB",
+        "collapsible_row_aNcbJj",
+        "collapsible_row_w8387k"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "section",
+        "color_scheme": "scheme-8aaacb26-4b18-4697-b061-aa8123997f17",
+        "container_color_scheme": "scheme-3dab660f-5e1c-413f-8d02-8238a0d87aed",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_EdkhbN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WdKp4F": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Partners",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WdKp4F"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_wedPUp": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-09-30_at_12.05.30_AM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rich_text_jpK78V": {
       "type": "rich-text",
       "blocks": {
@@ -52,6 +553,7 @@
         "text_6aVWxB",
         "button_8zgPRp"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -99,6 +601,36 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "rich_text_pL8erA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8neYqd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Available for you, Around the clock",
+            "heading_size": "h2"
+          }
+        },
+        "text_3AJaxG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>+ 97145474383</p><p>info@thehomespa.ae</p><p>@thehomespa</p><p>www.thehomespa.a</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8neYqd",
+        "text_3AJaxG"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_banner_FCqwHz": {
@@ -185,6 +717,7 @@
         "template--21480124383543__55a649c4-4606-4f42-839b-93d4426f0650-text-1",
         "template--21480124383543__55a649c4-4606-4f42-839b-93d4426f0650-button-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -197,9 +730,22 @@
   },
   "order": [
     "main",
+    "rich_text_BiUhf3",
+    "rich_text_waixBc",
+    "image_with_text_cnCxRQ",
+    "multicolumn_qH3p69",
+    "multirow_hpfQD8",
+    "image_banner_gdhLKR",
+    "multicolumn_JMtiPh",
+    "rich_text_V7dXQV",
+    "rich_text_CGqWrR",
+    "collapsible_content_bzTYYA",
+    "rich_text_EdkhbN",
+    "image_banner_wedPUp",
     "rich_text_jpK78V",
     "custom_liquid_iXLVM7",
     "f83e8e06-9447-4b8d-89e5-c38a97accb2f",
+    "rich_text_pL8erA",
     "image_banner_FCqwHz",
     "55a649c4-4606-4f42-839b-93d4426f0650"
   ]
